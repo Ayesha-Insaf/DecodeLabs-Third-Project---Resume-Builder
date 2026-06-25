@@ -14,7 +14,7 @@ resume-builder/
 │   └── script.js       
 ```
 
-## Features (mapped to Project 3 requirements)
+## Features 
 - **Buttons/toggles**: Theme switcher (Classic/Modern/Minimal), Add Skill, Add Experience, Clear All, Print
 - **Basic user interaction**: typing in form fields, clicking buttons, pressing Enter to add a skill
 - **Dynamic content update**: resume preview re-renders live as you type or add/remove items
